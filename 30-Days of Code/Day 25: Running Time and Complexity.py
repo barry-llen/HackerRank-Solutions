@@ -24,5 +24,3 @@ for _ in range(n):
         print("Not prime")
     else:
         print("Prime")
-
-
